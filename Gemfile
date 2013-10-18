@@ -32,6 +32,7 @@ gem 'nokogiri'
 gem 'rack', '~>1.1' 
 gem 'rspec', :require => 'spec'
 
+test
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
